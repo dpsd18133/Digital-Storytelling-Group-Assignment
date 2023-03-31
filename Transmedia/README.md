@@ -6,6 +6,7 @@
 ### GitHub Personal Profile: https://github.com/dpsd18133 & https://github.com/dpsd18045
 
 
+
 1.1. What is the project about? 
 Το project έχει να κάνει με την δημιουργία μιας μικρού μήκους ταινίας με δικό μας σενάριο.
 
