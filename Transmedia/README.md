@@ -123,7 +123,7 @@
 
 4.5. Are there non-player characters (NPCs) in this project? If so, who are they and what kind of role do they play (allies, adversaries, helper figures, etc.)?
 
-Να,ι μπορει να υπαρχουν βοηθητικες φιγουρες σε καποια πλανα.
+Ναι μπορει να υπαρχουν βοηθητικες φιγουρες σε καποια πλανα.
 
 
 5.1. How many extensions does the project have?
