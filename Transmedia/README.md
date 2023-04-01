@@ -5,6 +5,7 @@
 ### University Registration Number: dpsd18133 & dpsd18045
 ### GitHub Personal Profile: https://github.com/dpsd18133 & https://github.com/dpsd18045
 
+[Group assignment_1.pdf](https://github.com/dpsd18133/Digital-Storytelling-Group-Assignment/files/11129006/Group.assignment_1.pdf)
 
 
 1.1. What is the project about? 
