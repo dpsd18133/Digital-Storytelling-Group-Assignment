@@ -9,7 +9,6 @@ Short film: https://youtu.be/MraQIs81NiQ
 Book: [Ebook Cover.pdf](https://github.com/dpsd18133/Digital-Storytelling-Group-Assignment/files/11633919/Ebook.Cover.pdf)
 [Design document.pdf](https://github.com/dpsd18133/Digital-Storytelling-Group-Assignment/files/11636072/Design.document.pdf)
 
-(για καλύτερη ανάλυση δείτε τα pdf)
 
 Design document:
 ![1](https://github.com/dpsd18133/Digital-Storytelling-Group-Assignment/assets/46854165/83bc6495-c94f-4f95-8415-03fa8d036f74)
