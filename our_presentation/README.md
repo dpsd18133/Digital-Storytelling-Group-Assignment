@@ -7,6 +7,9 @@
 
 Presentation: [Minimalist Presentation.pdf](https://github.com/dpsd18133/Digital-Storytelling-Group-Assignment/files/11633797/Minimalist.Presentation.pdf)
 
+![1](https://github.com/dpsd18133/Digital-Storytelling-Group-Assignment/assets/46854165/cd20998d-7a24-4f31-9271-ab629d34a384)
+
+
 ![1](https://github.com/dpsd18133/Digital-Storytelling-Group-Assignment/assets/46854165/a464edae-7393-444f-9a26-1a98ac1cb931)
 ![2](https://github.com/dpsd18133/Digital-Storytelling-Group-Assignment/assets/46854165/fc187e35-bda2-440a-af8e-01b847b884be)
 ![3](https://github.com/dpsd18133/Digital-Storytelling-Group-Assignment/assets/46854165/423c49aa-70d9-4689-ae21-e7c55e0a8e94)
