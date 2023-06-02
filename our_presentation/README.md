@@ -5,7 +5,9 @@
 ### University Registration Number: dpsd18133 & dpsd18045
 ### GitHub Personal Profile: https://github.com/dpsd18133 & https://github.com/dpsd18045
 
-[Minimalist Presentation.pdf](https://github.com/dpsd18133/Digital-Storytelling-Group-Assignment/files/11633797/Minimalist.Presentation.pdf)
+Presentation: [Minimalist Presentation.pdf](https://github.com/dpsd18133/Digital-Storytelling-Group-Assignment/files/11633797/Minimalist.Presentation.pdf)
+
+![1](https://github.com/dpsd18133/Digital-Storytelling-Group-Assignment/assets/46854165/a464edae-7393-444f-9a26-1a98ac1cb931)
 
 ![1](https://github.com/dpsd18133/Digital-Storytelling-Group-Assignment/assets/46854165/5c29f0ef-cd0a-4864-b70c-b2142d1b4508)
 ![2](https://github.com/dpsd18133/Digital-Storytelling-Group-Assignment/assets/46854165/acf51a4c-a2d3-48b2-85a0-2145a0731e3a)
