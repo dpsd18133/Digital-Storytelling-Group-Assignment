@@ -24,6 +24,7 @@ Design document:
 ![10](https://github.com/dpsd18133/Digital-Storytelling-Group-Assignment/assets/46854165/ff11a106-131a-4bca-9d98-d944ac01363e)
 
 Book:
+
 ![1](https://github.com/dpsd18133/Digital-Storytelling-Group-Assignment/assets/46854165/10bc59d2-15f5-4d0d-b053-93c83342d79c)
 ![2](https://github.com/dpsd18133/Digital-Storytelling-Group-Assignment/assets/46854165/8fc3650c-5777-42bb-81ba-3a37f262179e)
 ![3](https://github.com/dpsd18133/Digital-Storytelling-Group-Assignment/assets/46854165/74b8fcd8-fcc8-4e32-9b6b-9a690ad59dc8)
